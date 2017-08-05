@@ -1,0 +1,21 @@
+[{
+    "name": "sanDiego",
+    "belt": "green",
+    "rate": 50,
+    "available": true
+}, {
+    "name": "kevin",
+    "belt": "red",
+    "rate": 15,
+    "available": true
+}, {
+    "name": "jane",
+    "belt": "yellow",
+    "rate": 123,
+    "available": true
+}, {
+    "name": "chowchow",
+    "belt": "black",
+    "rate": 1000,
+    "available": true
+}]
